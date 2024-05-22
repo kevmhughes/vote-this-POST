@@ -25,4 +25,4 @@ Usa los datos que devuelve la API para rellenar los apartados "Valoración media
 
 ## BONUS
 
-Intenta _engañar_ a la API. Modificar el control de rango para poderle enviar un valor mayor de 10. ¿que sucede?
+Intenta _engañar_ a la API. Modificar el control de rango para poderle enviar un valor mayor de 10. ¿que sucede? Se recibe este mensaje de error: 'Score must be a number between 1 and 10 ...
